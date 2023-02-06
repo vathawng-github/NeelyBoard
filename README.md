@@ -1,7 +1,2 @@
 # NeelyBoard
-## v.1
-- Ability
-- Absorb
-- Access
-- Accuse
-- Act
+A board that will have all of Ms.Neely's spelling words
